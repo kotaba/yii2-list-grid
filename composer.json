@@ -1,0 +1,12 @@
+{
+  "name": "kotaba/yii2-list-grid",
+  "description": "list view for yii2 sortable",
+  "version": "1.0.0",
+  "license": "MIT",
+  "require": {
+    "yiisoft/yii2": "*"
+  },
+  "autoload": {
+    "classmap": ["sortable-list-view/"]
+  }
+}
