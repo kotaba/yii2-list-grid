@@ -11,7 +11,7 @@ use yii\web\AssetBundle;
 
 class SortableListAsset extends AssetBundle
 {
-    public $sourcePath = '@sortablelist/assets';
+    public $sourcePath = '@vendor/kotaba/yii2-list-grid/sortable-list-view/assets';
 
     public $js = [
         'js/jquery.sortable.gridview.js',
